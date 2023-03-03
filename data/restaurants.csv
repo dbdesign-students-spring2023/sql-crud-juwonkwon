@@ -1,0 +1,1000 @@
+1,Moroccan,medium,South Jamaica,8:35,22:12,1,false
+2,Arabian,expensive,Georgetown,8:16,22:38,1,false
+3,Sushi,cheap,Dutch Kills,8:02,23:27,4,true
+4,Szechwan,medium,Manhattan Terrace,8:21,22:20,5,true
+5,Polish,medium,Herald Square,8:27,23:50,5,false
+6,Southwestern,medium,Jamaica,8:47,23:39,2,true
+7,Spanish,medium,Richmond Valley,8:54,23:08,1,true
+8,Portuguese,medium,Malba,8:33,23:48,2,true
+9,Portuguese,cheap,Tompkins Park North,8:41,23:54,3,true
+10,Turkish,expensive,Union Square,8:34,22:54,5,true
+11,Sushi,cheap,Tompkinsville,8:23,22:35,4,false
+12,Portuguese,cheap,Fox Hills,8:53,22:52,3,true
+13,Argentinian,cheap,Rugby,8:08,23:20,1,false
+14,Southwestern,medium,Bath Beach,8:34,22:37,5,true
+15,Portuguese,expensive,East Elmhurst,8:10,23:55,2,false
+16,Sri Lankan,medium,Upper West Side,8:10,23:11,4,false
+17,Russian,expensive,Kew Gardens,8:28,23:37,1,true
+18,Vegetarian,cheap,Kensington,8:05,23:49,2,true
+19,Caribbean,cheap,Jamaica Center,8:40,23:38,3,false
+20,Salad,cheap,Maspeth,8:03,23:12,1,true
+21,Puerto Rican,medium,Auburndale,8:15,23:53,2,true
+22,Puerto Rican,cheap,Long Island City,8:14,22:06,5,true
+23,Vietnamese,medium,Sandy Ground,8:58,23:36,1,false
+24,Austrian,medium,Oakwood,8:02,23:34,4,false
+25,Caribbean,cheap,South Village,8:29,22:11,2,true
+26,Austrian,medium,Oakwood,8:04,22:23,2,true
+27,Persian,expensive,Carroll Gardens,8:47,23:57,4,true
+28,Caribbean,cheap,North Side,8:04,23:34,5,false
+29,Australian,expensive,Morris Park,8:28,23:17,1,false
+30,Polish,expensive,Sutton Place,8:33,22:57,2,false
+31,Uzbek,medium,Mount Hope,8:30,23:43,1,false
+32,Senegalese,expensive,Kew Gardens,8:01,23:02,1,true
+33,Pizza,expensive,Blissville,8:37,22:50,2,false
+34,Vegan,medium,Sunnyside,8:23,22:55,5,false
+35,Polish,medium,Spring Creek,8:45,22:32,3,false
+36,Arabian,medium,Tudor City,8:53,23:16,4,false
+37,Polish,medium,Carnegie Hill,8:53,22:35,5,false
+38,Vegetarian,expensive,Boerum Hill,8:14,23:55,4,true
+39,Nepalese,expensive,Midtown,8:57,23:55,3,false
+40,Australian,expensive,Fort Greene,8:25,23:07,1,false
+41,Ribs,medium,Grant City,8:00,23:04,1,false
+42,Polish,medium,Bronx Park South,8:52,22:36,2,false
+43,Vegan,cheap,Hammels,8:14,22:03,2,false
+44,Vegan,expensive,Sunnyside Gardens,8:07,22:08,3,true
+45,Subs,expensive,North Riverdale,8:23,23:46,5,true
+46,Russian,medium,Parkchester,8:26,23:04,1,false
+47,Salad,expensive,Fort Hamilton,8:14,22:55,2,false
+48,Fusion,medium,Glen Oaks,8:23,23:03,4,false
+49,Fusion,medium,Fulton Ferry,8:10,22:08,2,false
+50,Russian,cheap,Breezy Point,8:59,23:05,1,true
+51,Sri Lankan,medium,Mapleton,8:42,22:05,4,true
+52,Szechwan,expensive,Sunnyside,8:38,23:05,5,false
+53,Mongolian,medium,Kingsbridge,8:58,22:50,4,true
+54,Ribs,medium,Grymes Hill,8:25,22:26,3,false
+55,Pakistani,expensive,Ocean Parkway,8:12,23:23,4,true
+56,Polish,medium,Jamaica Estates,8:33,23:55,4,false
+57,Szechwan,medium,Fresh Meadows,8:14,23:19,5,false
+58,Ribs,medium,Castleton Corners,8:41,22:18,5,false
+59,Steakhouses,expensive,Bellaire,8:18,22:36,5,false
+60,Vegetarian,cheap,Borough Park,8:37,23:12,5,false
+61,Sushi,expensive,City Island,8:14,23:29,5,true
+62,Cantonese,expensive,Morrisania,8:47,23:16,2,true
+63,Ribs,cheap,Sunnyside Gardens,8:59,23:01,1,true
+64,Vegan,expensive,Whitestone,8:39,23:04,3,false
+65,Fusion,medium,Lincoln Square,8:03,23:23,2,true
+66,Szechwan,cheap,Graniteville,8:03,23:01,5,true
+67,Sushi,expensive,Richmond Valley,8:05,23:44,4,true
+68,Argentinian,cheap,Bloomfield,8:07,23:57,3,false
+69,Fusion,medium,Bellerose,8:12,22:01,2,false
+70,Australian,cheap,Murray Hill,8:16,22:35,5,false
+71,Pizza,cheap,Soundview,8:54,22:53,3,true
+72,Tex-Mex  Thai,expensive,Jamaica,8:28,23:48,5,false
+73,Sushi,cheap,Belle Harbor,8:03,23:44,3,false
+74,Portuguese,cheap,Heartland Village,8:37,22:41,4,false
+75,Cantonese,medium,Tompkinsville,8:16,22:24,5,false
+76,Ukrainian,medium,Whitestone,8:35,22:00,1,false
+77,Australian,expensive,Midtown South,8:40,22:07,5,false
+78,Pancakes,expensive,Chelsea,8:32,22:17,5,true
+79,Persian,medium,Jamaica,8:11,22:43,5,true
+80,Turkish,expensive,East Flatbush,8:17,23:50,5,false
+81,Russian,expensive,Arrochar,8:31,22:12,5,false
+82,Ukrainian,expensive,Claremont Village,8:16,23:05,2,true
+83,Pasta,cheap,Fort Greene,8:16,22:11,3,false
+84,Pizza,expensive,Seaside,8:35,22:48,3,false
+85,Pizza,medium,Claremont Village,8:50,23:07,2,false
+86,Tex-Mex  Thai,cheap,New Hyde Park,8:36,22:32,1,false
+87,Pasta,expensive,Woodhaven,8:47,22:18,1,false
+88,Polish,medium,Somerville,8:44,22:20,5,false
+89,Austrian,cheap,Marine Park,8:25,23:36,1,true
+90,Sushi,medium,Bedford Park,8:24,22:20,1,true
+91,Cantonese,cheap,Queensboro Hill,8:42,23:29,2,false
+92,Moroccan,medium,Oakland Gardens,8:54,23:06,1,true
+93,Vegetarian,cheap,Fordham,8:48,22:22,5,false
+94,Pakistani,expensive,Edgewater Park,8:59,23:38,1,true
+95,Nepalese,cheap,Sandy Ground,8:22,23:16,3,true
+96,Arabian,medium,Bloomfield,8:07,23:22,5,false
+97,Tex-Mex  Thai,expensive,Greenpoint,8:08,23:46,1,false
+98,Fusion,expensive,Prospect Park South,8:50,22:21,3,true
+99,Turkish,cheap,Longwood,8:21,22:38,4,true
+100,Vietnamese,medium,West Farms,8:49,23:23,4,true
+101,Spanish,expensive,Port Morris,8:29,23:42,1,true
+102,Caribbean,cheap,Randall Manor,8:40,23:53,2,true
+103,Vegetarian,cheap,Richmond Hill,8:00,22:49,5,true
+104,Russian,expensive,Old Place,8:34,22:30,5,true
+105,Salad,cheap,Fox Hills,8:42,23:03,4,true
+106,Argentinian,expensive,Co-op City,8:55,22:18,2,false
+107,Tex-Mex  Thai,cheap,Morrisania,8:06,22:05,3,false
+108,Mongolian,expensive,New Brighton,8:48,22:29,3,true
+109,Sushi,expensive,Mill Island,8:42,22:22,2,false
+110,Polish,medium,Belmont,8:18,23:29,5,true
+111,Vegan,cheap,Neponsit,8:00,22:03,3,false
+112,Puerto Rican,medium,Kingsbridge Heights,8:53,23:33,1,false
+113,Uzbek,expensive,Heartland Village,8:52,23:03,2,false
+114,Southwestern,medium,Washington Heights,8:31,22:04,3,false
+115,Sushi,cheap,Morningside Heights,8:44,23:32,4,true
+116,Australian,cheap,Woodlawn,8:50,23:38,2,false
+117,Vegan,medium,Briarwood,8:52,22:35,4,false
+118,Ribs,cheap,Plum Beach,8:37,23:11,2,false
+119,Turkish,cheap,Dongan Hills,8:49,23:51,4,true
+120,Steakhouses,expensive,Cypress Hills,8:32,23:46,5,false
+121,Mongolian,medium,Concourse,8:26,22:41,5,true
+122,Nepalese,medium,Middle Village,8:52,23:07,5,true
+123,Moroccan,cheap,Paerdegat Basin,8:23,23:00,3,false
+124,Moroccan,cheap,Canarsie,8:06,22:16,3,true
+125,Moroccan,cheap,Edgemere,8:02,22:16,1,false
+126,Cantonese,cheap,Pelham Gardens,8:42,23:52,3,true
+127,Sri Lankan,expensive,Hunts Point,8:49,23:17,2,false
+128,Uzbek,medium,Bronx River,8:35,23:08,4,false
+129,Australian,cheap,University Heights,8:49,23:16,4,true
+130,Pancakes,expensive,Rosedale,8:36,22:31,5,false
+131,Steakhouses,medium,Boerum Hill,8:59,23:11,2,false
+132,Vietnamese,medium,Rosebank,8:20,23:41,2,false
+133,Salad,cheap,Midtown,8:00,22:48,1,false
+134,Austrian,cheap,North Side,8:57,22:09,1,true
+135,Pasta,expensive,Hunters Point,8:15,22:54,4,true
+136,Caribbean,cheap,Georgetown,8:43,22:42,3,true
+137,Salad,medium,Bath Beach,8:05,22:42,5,false
+138,Ribs,medium,Arrochar,8:03,23:33,5,true
+139,Uzbek,cheap,Vinegar Hill,8:11,23:28,3,false
+140,Vegan,medium,West Village,8:10,22:39,5,false
+141,Sushi,cheap,New Lots,8:07,22:00,3,true
+142,Senegalese,medium,Lighthouse Hill,8:42,22:55,2,false
+143,Spanish,medium,Parkchester,8:25,23:07,5,false
+144,Senegalese,cheap,Sandy Ground,8:18,23:57,5,true
+145,Salad,expensive,Belle Harbor,8:14,22:43,1,false
+146,Puerto Rican,medium,St. George,8:41,23:48,3,false
+147,Spanish,medium,Woodlawn,8:03,22:44,5,false
+148,Vegan,cheap,Bulls Head,8:48,23:08,5,false
+149,Ukrainian,expensive,Gravesend,8:45,22:54,5,true
+150,Caribbean,medium,Manhattan Terrace,8:32,22:10,2,true
+151,Arabian,expensive,Concourse,8:11,23:19,4,true
+152,Vietnamese,cheap,Pleasant Plains,8:45,23:33,1,false
+153,Vietnamese,medium,Yorkville,8:37,22:53,1,false
+154,Sri Lankan,cheap,Boerum Hill,8:28,23:25,2,false
+155,Argentinian,cheap,Ditmas Park,8:08,23:27,4,true
+156,Ribs,expensive,Brighton Beach,8:06,23:07,4,true
+157,Russian,cheap,Williamsbridge,8:54,22:20,3,false
+158,Steakhouses,cheap,Greenpoint,8:31,23:27,2,false
+159,Subs,expensive,Arden Heights,8:27,22:01,3,true
+160,Russian,expensive,Whitestone,8:21,22:44,3,false
+161,Polish,cheap,Chelsea,8:49,22:13,4,true
+162,Spanish,cheap,Clearview,8:34,22:51,5,false
+163,Spanish,medium,Tompkins Park North,8:39,23:47,2,true
+164,Steakhouses,medium,Clinton Hill,8:32,23:44,2,false
+165,Spanish,cheap,Sunnyside,8:54,23:41,2,true
+166,Ukrainian,cheap,Washington Heights,8:15,22:56,2,true
+167,Cantonese,cheap,Springfield Gardens,8:01,23:45,1,false
+168,Mongolian,expensive,Heartland Village,8:39,22:30,5,false
+169,Fusion,cheap,Park Hill,8:11,23:35,3,true
+170,Southwestern,cheap,Bay Terrace,8:55,23:30,2,true
+171,Arabian,cheap,Sea Gate,8:30,22:01,1,false
+172,Ukrainian,cheap,Eastchester,8:07,23:42,2,false
+173,Pakistani,cheap,Kew Gardens,8:01,22:46,3,true
+174,Steakhouses,medium,Park Hill,8:30,22:36,1,false
+175,Polish,cheap,Greenwich Village,8:38,22:26,1,true
+176,Tex-Mex  Thai,cheap,Bensonhurst,8:39,23:40,4,false
+177,Szechwan,medium,Fort Hamilton,8:54,22:41,4,false
+178,Arabian,cheap,Marine Park,8:34,22:45,2,true
+179,Pancakes,medium,New Dorp Beach,8:28,22:10,3,true
+180,Pasta,expensive,Rosebank,8:22,23:14,1,true
+181,Pizza,expensive,Douglaston,8:37,22:41,5,true
+182,Austrian,medium,Lighthouse Hill,8:14,23:40,2,false
+183,Portuguese,medium,Marine Park,8:46,22:17,5,false
+184,Tex-Mex  Thai,expensive,Steinway,8:31,22:58,3,true
+185,Vietnamese,medium,Annadale,8:10,23:34,4,false
+186,Caribbean,expensive,Baychester,8:22,23:23,2,false
+187,Ribs,expensive,Park Hill,8:16,22:28,2,true
+188,Sushi,cheap,Farragut,8:37,22:55,3,false
+189,Steakhouses,medium,Farragut,8:16,22:33,1,false
+190,Pizza,medium,Flushing,8:56,22:32,1,false
+191,Spanish,cheap,Castle Hill,8:31,23:43,5,true
+192,Szechwan,expensive,Pleasant Plains,8:46,23:47,3,true
+193,Steakhouses,medium,Bronxdale,8:54,23:50,4,false
+194,Salad,cheap,Springfield Gardens,8:22,23:42,1,false
+195,Polish,expensive,Woodhaven,8:53,23:56,3,false
+196,Ribs,cheap,Inwood,8:44,23:56,3,true
+197,Pancakes,expensive,Prospect Lefferts Gardens,8:49,23:02,2,true
+198,Sushi,expensive,Dyker Heights,8:23,22:46,5,false
+199,Vegan,expensive,St. George,8:02,23:51,4,false
+200,Cantonese,cheap,Gravesend,8:59,22:21,4,true
+201,Pasta,medium,Mill Basin,8:15,22:08,4,true
+202,Sri Lankan,expensive,Flushing (Downtown),8:15,23:08,1,true
+203,Russian,medium,Port Morris,8:39,22:40,4,false
+204,Argentinian,cheap,Hamilton Heights,8:03,22:14,2,true
+205,Pasta,expensive,Harlem (Central),8:09,23:46,3,true
+206,Arabian,medium,Spuyten Duyvil,8:18,23:41,5,true
+207,Moroccan,expensive,Downtown,8:59,22:51,1,true
+208,Australian,medium,Whitestone,8:29,22:40,2,true
+209,Southwestern,expensive,Lefrak City,8:59,23:41,3,true
+210,Uzbek,cheap,Ward Hill,8:36,22:01,5,false
+211,Steakhouses,expensive,Rugby,8:31,22:19,5,true
+212,Szechwan,medium,Ozone Park,8:50,22:09,4,true
+213,Uzbek,cheap,South Side,8:26,22:16,2,false
+214,Portuguese,expensive,Riverdale,8:19,22:47,3,true
+215,Uzbek,expensive,Somerville,8:32,22:49,4,false
+216,Steakhouses,expensive,Ozone Park,8:30,23:05,2,true
+217,Puerto Rican,cheap,Baychester,8:55,22:13,5,true
+218,Ukrainian,expensive,Sandy Ground,8:11,23:39,2,false
+219,Russian,cheap,Morningside Heights,8:16,22:40,1,false
+220,Pasta,expensive,NoHo,8:39,23:01,5,true
+221,Uzbek,cheap,Bellaire,8:53,22:07,1,false
+222,Moroccan,medium,East Elmhurst,8:14,22:21,4,false
+223,Austrian,expensive,Parkchester,8:56,23:23,4,false
+224,Sushi,medium,Dyker Heights,8:24,22:10,4,true
+225,Turkish,expensive,Stuyvesant Heights,8:49,23:36,4,true
+226,Pakistani,cheap,Todt Hill,8:37,23:19,2,true
+227,Steakhouses,cheap,Unionport,8:43,23:30,5,false
+228,Arabian,cheap,Canarsie,8:42,23:10,5,false
+229,Pasta,expensive,Fort Hamilton,8:42,23:32,5,true
+230,Nepalese,medium,Times Square,8:46,22:13,5,false
+231,Steakhouses,cheap,Hamilton Heights,8:45,22:31,3,false
+232,Puerto Rican,medium,Silver Lake,8:21,22:26,5,false
+233,Tex-Mex  Thai,expensive,Utopia,8:48,22:43,4,false
+234,Pakistani,cheap,Greenwich Village,8:54,23:10,2,true
+235,Ukrainian,medium,Marble Hill,8:07,23:44,4,false
+236,Polish,medium,Bedford Stuyvesant,8:21,22:46,5,true
+237,Subs,medium,Upper West Side,8:43,22:08,3,false
+238,Persian,expensive,New Hyde Park,8:03,22:04,4,false
+239,Pancakes,cheap,Heartland Village,8:57,22:37,3,true
+240,Pancakes,expensive,Astoria,8:04,23:28,4,true
+241,Senegalese,cheap,Willowbrook,8:50,23:44,3,false
+242,Arabian,cheap,Roxbury,8:04,23:47,3,false
+243,Vegan,medium,Concourse Village,8:18,23:21,1,true
+244,Sri Lankan,medium,Douglaston,8:45,23:26,3,true
+245,Pasta,cheap,Sunnyside,8:52,23:24,5,true
+246,Turkish,cheap,Rossville,8:14,23:18,4,false
+247,Fusion,cheap,Middle Village,8:16,22:01,5,false
+248,Tex-Mex  Thai,medium,Carroll Gardens,8:00,23:19,4,false
+249,Puerto Rican,cheap,Kingsbridge Heights,8:18,23:47,5,false
+250,Steakhouses,expensive,Marble Hill,8:01,23:40,5,false
+251,Senegalese,medium,Beechhurst,8:59,22:20,4,false
+252,Fusion,expensive,Bayside,8:33,22:51,3,true
+253,Ukrainian,medium,Bayside,8:47,22:56,5,false
+254,Australian,expensive,Bellaire,8:17,23:04,3,true
+255,Arabian,cheap,Pelham Gardens,8:51,23:18,2,false
+256,Szechwan,medium,Port Richmond,8:27,23:39,4,true
+257,Mongolian,cheap,Jackson Heights,8:23,23:53,3,false
+258,Cantonese,expensive,Rugby,8:13,22:17,3,false
+259,Senegalese,cheap,Country Club,8:34,23:40,1,true
+260,Southwestern,expensive,Whitestone,8:20,23:40,2,false
+261,Persian,medium,Kingsbridge Heights,8:31,22:54,4,true
+262,Vegetarian,expensive,Clearview,8:29,22:53,3,true
+263,Nepalese,medium,Clearview,8:30,22:58,2,false
+264,Pasta,medium,Harlem (Central),8:46,23:41,2,true
+265,Steakhouses,cheap,Westerleigh,8:24,23:32,4,true
+266,Cantonese,expensive,Flatlands,8:41,23:35,2,true
+267,Mongolian,medium,Ridgewood,8:09,23:24,2,true
+268,Portuguese,medium,Chelsea,8:15,23:35,4,true
+269,Tex-Mex  Thai,medium,Murray Hill,8:55,23:07,3,true
+270,Arabian,cheap,Eastchester,8:05,22:19,1,false
+271,Steakhouses,medium,Shore Acres,8:41,22:12,2,true
+272,Vegetarian,medium,Borough Park,8:56,23:42,4,false
+273,Senegalese,expensive,Washington Heights,8:26,22:15,3,false
+274,Moroccan,cheap,Wingate,8:19,22:10,4,false
+275,Subs,expensive,Union Square,8:16,22:28,2,false
+276,Pancakes,medium,Greenpoint,8:48,23:12,4,false
+277,Portuguese,expensive,Cobble Hill,8:58,22:26,2,false
+278,Nepalese,medium,Edenwald,8:08,23:04,2,true
+279,Ukrainian,medium,East Flatbush,8:27,23:37,1,true
+280,Pasta,expensive,North Side,8:55,22:08,4,true
+281,Spanish,cheap,Livingston,8:08,22:32,2,true
+282,Caribbean,cheap,Great Kills,8:47,22:46,1,true
+283,Tex-Mex  Thai,medium,Morrisania,8:27,22:08,1,true
+284,Puerto Rican,expensive,Seaside,8:55,23:16,3,false
+285,Ukrainian,medium,Tompkinsville,8:50,22:27,1,false
+286,Szechwan,expensive,Windsor Terrace,8:47,22:31,5,false
+287,Sri Lankan,cheap,Rosebank,8:50,22:02,4,false
+288,Caribbean,cheap,Ocean Hill,8:37,23:18,2,true
+289,Ukrainian,cheap,Kings Highway,8:42,23:30,4,true
+290,Caribbean,cheap,Clinton,8:17,22:48,1,true
+291,Russian,expensive,Allerton,8:53,23:40,4,false
+292,Sushi,medium,Upper West Side,8:45,22:47,2,true
+293,Caribbean,expensive,Forest Hills Gardens,8:27,23:11,3,true
+294,Vegetarian,expensive,Richmond Valley,8:51,23:25,4,true
+295,Arabian,medium,Bushwick,8:56,23:57,1,false
+296,Pizza,medium,Soundview,8:47,22:20,4,false
+297,Nepalese,cheap,Manhattan Valley,8:59,22:19,5,true
+298,Vegan,cheap,Herald Square,8:53,23:05,1,false
+299,Puerto Rican,medium,Great Kills,8:21,22:05,1,true
+300,Cantonese,expensive,Inwood,8:17,23:08,5,true
+301,Persian,cheap,Rugby,8:22,23:45,3,true
+302,Sushi,expensive,North Riverdale,8:19,22:15,3,true
+303,Pizza,cheap,Mill Island,8:22,22:13,3,false
+304,Steakhouses,medium,Charleston,8:43,22:57,3,false
+305,Turkish,cheap,Cobble Hill,8:04,22:16,3,false
+306,Caribbean,cheap,Rugby,8:13,23:55,4,true
+307,Sri Lankan,cheap,Farragut,8:49,22:18,4,false
+308,Senegalese,cheap,New Hyde Park,8:09,23:17,1,false
+309,Portuguese,cheap,Floral Park,8:11,23:50,5,true
+310,Cantonese,medium,Long Island City,8:25,22:10,4,true
+311,Cantonese,cheap,Park Slope,8:01,23:45,4,true
+312,Ribs,cheap,Manhattan Beach,8:45,22:55,5,false
+313,Nepalese,cheap,Bronx Park South,8:55,22:57,4,false
+314,Cantonese,expensive,Van Nest,8:56,22:54,3,true
+315,Argentinian,expensive,Ozone Park,8:15,23:46,4,false
+316,Pizza,expensive,Farragut,8:53,23:25,2,false
+317,Vegan,medium,Lefrak City,8:56,22:08,3,true
+318,Sushi,expensive,Sunnyside,8:45,23:35,3,true
+319,Argentinian,medium,West Brighton,8:28,23:22,1,true
+320,Spanish,expensive,College Point,8:21,23:30,1,false
+321,Vegetarian,medium,SoHo,8:28,23:30,3,false
+322,Senegalese,medium,Prospect Lefferts Gardens,8:00,23:46,3,false
+323,Pasta,expensive,Elmhurst,8:20,23:22,5,false
+324,Mongolian,cheap,Throgs Neck,8:31,23:56,4,false
+325,Sri Lankan,expensive,Olinville,8:27,23:16,4,true
+326,Tex-Mex  Thai,expensive,Howland Hook,8:20,23:06,4,false
+327,Steakhouses,cheap,Van Nest,8:06,23:43,4,false
+328,Szechwan,medium,Roxbury,8:55,22:16,4,true
+329,Puerto Rican,cheap,Lower East Side,8:56,22:37,3,false
+330,Nepalese,medium,University Heights,8:05,22:10,5,false
+331,Vegetarian,cheap,Claremont Village,8:21,23:23,5,true
+332,Puerto Rican,expensive,Great Kills,8:57,22:06,5,true
+333,Pancakes,cheap,Mariner's Harbor,8:31,22:02,4,false
+334,Austrian,medium,Elmhurst,8:24,22:08,1,false
+335,Vegan,cheap,Ditmas Park,8:33,23:52,1,false
+336,Salad,expensive,Castleton Corners,8:23,22:01,3,true
+337,Southwestern,medium,Old Place,8:00,22:38,1,true
+338,Senegalese,cheap,Rockaway Park,8:29,22:12,3,false
+339,Senegalese,medium,South Ozone Park,8:17,23:32,2,true
+340,Spanish,expensive,Concord,8:06,23:22,5,true
+341,Turkish,cheap,Williamsburg,8:44,23:53,3,false
+342,Sri Lankan,expensive,Gerritsen Beach,8:12,23:01,2,false
+343,Sushi,cheap,Homecrest,8:27,22:47,2,false
+344,Arabian,expensive,Williamsbridge,8:51,23:32,5,true
+345,Moroccan,cheap,Chelsea,8:11,22:03,1,false
+346,Ukrainian,expensive,Arrochar,8:11,22:16,5,false
+347,Moroccan,expensive,Van Nest,8:29,22:53,4,true
+348,Pancakes,medium,Briarwood,8:59,23:40,1,false
+349,Tex-Mex  Thai,cheap,Williamsburg,8:15,23:30,1,true
+350,Fusion,medium,Broad Channel,8:59,23:55,2,false
+351,Caribbean,cheap,Bath Beach,8:47,22:02,4,false
+352,Moroccan,cheap,East Flatbush,8:12,23:23,4,true
+353,Arabian,cheap,Astoria Heights,8:32,23:16,5,true
+354,Austrian,cheap,Manhattan Beach,8:10,23:29,4,false
+355,Caribbean,expensive,Wingate,8:19,23:36,4,false
+356,Vegan,expensive,Clason Point,8:05,22:15,3,true
+357,Ukrainian,medium,Egbertville,8:40,23:02,3,true
+358,Australian,cheap,Gramercy,8:21,22:40,1,true
+359,Ribs,medium,Marine Park,8:00,22:54,1,true
+360,Persian,medium,Jamaica Estates,8:09,23:57,3,true
+361,Argentinian,medium,Huguenot,8:59,22:42,4,true
+362,Russian,cheap,Georgetown,8:57,23:16,4,true
+363,Pakistani,expensive,Cambria Heights,8:04,23:03,3,false
+364,Sri Lankan,medium,Farragut,8:05,22:17,3,false
+365,Portuguese,medium,St. George,8:23,23:36,2,false
+366,Salad,cheap,Clifton,8:00,23:26,2,false
+367,Salad,cheap,Flushing,8:54,23:12,1,true
+368,Argentinian,medium,Claremont Village,8:58,22:29,4,true
+369,Turkish,cheap,North Riverdale,8:25,23:26,4,false
+370,Pancakes,medium,Co-op City,8:52,23:15,1,false
+371,Southwestern,medium,Elm Park,8:20,23:41,3,false
+372,Moroccan,cheap,Sunnyside Gardens,8:43,22:52,5,true
+373,Subs,medium,Tudor City,8:30,22:46,3,false
+374,Sushi,expensive,Marble Hill,8:50,22:35,1,true
+375,Pasta,medium,Hudson Square,8:15,23:08,1,false
+376,Ribs,cheap,Marble Hill,8:31,23:35,5,false
+377,Fusion,expensive,Silver Lake,8:56,23:01,5,true
+378,Pakistani,expensive,Gerritsen Beach,8:50,23:26,1,false
+379,Steakhouses,cheap,Stuyvesant Town,8:13,23:52,5,true
+380,Vegetarian,medium,Bay Terrace,8:26,23:20,2,false
+381,Arabian,cheap,Flatlands,8:35,23:03,2,false
+382,Turkish,cheap,Roxbury,8:21,23:54,1,false
+383,Persian,cheap,Morrisania,8:22,23:10,5,true
+384,Subs,cheap,Livingston,8:27,22:58,2,true
+385,Pizza,cheap,Ocean Hill,8:36,22:14,2,false
+386,Szechwan,expensive,Gravesend,8:44,23:31,1,true
+387,Vegan,medium,Holliswood,8:10,23:17,3,false
+388,Fusion,medium,Great Kills,8:14,22:59,2,true
+389,Uzbek,expensive,Stuyvesant Heights,8:13,22:55,4,true
+390,Arabian,expensive,Lefrak City,8:59,23:15,2,true
+391,Uzbek,expensive,Upper East Side,8:22,22:53,1,false
+392,Pizza,medium,East Tremont,8:44,22:27,5,false
+393,Uzbek,medium,Richmond Hill,8:43,22:52,5,false
+394,Cantonese,cheap,Utopia,8:36,22:15,4,true
+395,Vegetarian,medium,Glendale,8:51,22:48,2,false
+396,Persian,cheap,Cambria Heights,8:58,23:07,4,true
+397,Vegan,expensive,City Island,8:51,22:13,1,false
+398,Vegetarian,cheap,Prospect Park South,8:56,23:33,5,false
+399,Ukrainian,medium,Hillcrest,8:01,22:19,1,true
+400,Russian,expensive,High Bridge,8:14,22:52,2,true
+401,Vegan,medium,North Corona,8:32,22:08,5,false
+402,Vegetarian,cheap,Co-op City,8:38,23:15,4,true
+403,Pakistani,cheap,Williamsbridge,8:24,23:45,4,false
+404,Senegalese,medium,Jamaica Estates,8:09,23:33,4,false
+405,Salad,expensive,Silver Lake,8:05,23:54,2,true
+406,Ukrainian,expensive,Turtle Bay,8:19,22:53,1,true
+407,Tex-Mex  Thai,cheap,Ditmas Park,8:57,23:30,3,true
+408,Mongolian,cheap,Richmond Town,8:52,22:44,5,true
+409,Caribbean,medium,Sutton Place,8:23,23:32,5,true
+410,Salad,cheap,Arden Heights,8:58,23:36,2,false
+411,Ukrainian,expensive,Times Square,8:24,22:35,1,true
+412,Steakhouses,expensive,Bensonhurst,8:10,22:00,2,false
+413,Mongolian,medium,Fort Hamilton,8:07,22:24,5,false
+414,Szechwan,medium,Forest Hills Gardens,8:02,23:22,4,false
+415,Tex-Mex  Thai,expensive,Beechhurst,8:56,22:24,3,true
+416,Portuguese,cheap,Steinway,8:54,23:22,4,true
+417,Austrian,expensive,Maspeth,8:59,23:47,1,true
+418,Moroccan,medium,Bath Beach,8:11,22:14,2,false
+419,Uzbek,expensive,Brookville,8:40,22:32,2,true
+420,Puerto Rican,medium,Rosedale,8:45,22:42,2,true
+421,Russian,cheap,Neponsit,8:46,22:07,5,true
+422,Uzbek,medium,Manhattanville,8:23,23:49,5,true
+423,Ribs,expensive,Spring Creek,8:22,22:44,4,false
+424,Persian,expensive,South Village,8:06,22:32,5,false
+425,Moroccan,medium,Springfield Gardens,8:16,23:44,4,true
+426,Cantonese,cheap,Cobble Hill,8:00,23:30,2,true
+427,Austrian,cheap,Upper East Side,8:23,23:38,2,false
+428,Persian,cheap,Prospect Heights,8:07,23:14,4,false
+429,Polish,cheap,Hunters Point,8:07,22:00,5,false
+430,Vegetarian,cheap,Somerville,8:24,23:24,1,false
+431,Fusion,cheap,SoHo,8:19,23:12,1,true
+432,Tex-Mex  Thai,cheap,Sunnyside,8:41,23:06,3,false
+433,Szechwan,expensive,Dongan Hills,8:56,22:59,3,false
+434,Arabian,medium,Ocean Hill,8:13,23:23,3,false
+435,Szechwan,cheap,Steinway,8:55,22:44,3,true
+436,Cantonese,medium,Bay Ridge,8:21,23:09,2,true
+437,Portuguese,medium,Murray Hill,8:00,23:22,4,true
+438,Southwestern,cheap,East New York,8:40,23:18,4,true
+439,Moroccan,medium,Astoria,8:27,23:04,1,true
+440,Portuguese,cheap,Spuyten Duyvil,8:54,23:50,4,true
+441,Pakistani,cheap,Weeksville,8:03,22:48,2,false
+442,Salad,medium,South Corona,8:09,22:40,4,false
+443,Cantonese,expensive,Bedford Stuyvesant,8:49,22:41,2,false
+444,Moroccan,medium,Richmond Hill,8:22,23:38,5,false
+445,Cantonese,expensive,Union Square,8:59,23:13,5,false
+446,Austrian,expensive,Fort Hamilton,8:36,22:28,4,true
+447,Tex-Mex  Thai,expensive,Richmond Town,8:28,23:40,2,false
+448,Argentinian,expensive,East Flatbush,8:24,23:47,3,true
+449,Szechwan,medium,Bellerose,8:58,22:31,2,true
+450,Caribbean,medium,Richmond Hill,8:33,22:58,2,false
+451,Southwestern,expensive,Bronx Park South,8:00,23:20,4,false
+452,Tex-Mex  Thai,expensive,Grant City,8:14,23:39,3,true
+453,Mongolian,cheap,Riverdale,8:27,23:23,5,true
+454,Ribs,expensive,Bloomfield,8:06,22:14,3,true
+455,Polish,cheap,Richmond Town,8:58,22:12,4,false
+456,Pasta,expensive,Prince's Bay,8:54,22:50,4,true
+457,Polish,expensive,Riverdale,8:34,23:34,4,false
+458,Subs,medium,Allerton,8:59,22:48,4,false
+459,Salad,cheap,Breezy Point,8:44,23:09,3,false
+460,Uzbek,expensive,Mount Hope,8:53,23:17,5,true
+461,Sri Lankan,expensive,Steinway,8:11,23:36,5,false
+462,Arabian,expensive,Sunnyside,8:15,23:09,1,true
+463,Mongolian,medium,Vinegar Hill,8:49,23:29,1,false
+464,Vegetarian,expensive,Heartland Village,8:01,23:30,2,true
+465,Pasta,cheap,North Riverdale,8:21,23:34,3,true
+466,Turkish,medium,Starrett City,8:28,22:22,2,false
+467,Caribbean,expensive,Woodrow,8:18,22:08,1,true
+468,Puerto Rican,expensive,Douglaston,8:45,22:34,3,false
+469,Pancakes,medium,Williamsbridge,8:52,23:28,1,true
+470,Vegan,medium,Kew Gardens Hills,8:49,23:24,4,false
+471,Turkish,medium,Windsor Terrace,8:27,23:24,4,true
+472,Tex-Mex  Thai,expensive,Cobble Hill,8:30,22:48,3,false
+473,Vegetarian,medium,Fordham,8:57,23:58,1,true
+474,Southwestern,cheap,Glen Oaks,8:28,23:04,5,false
+475,Cantonese,cheap,Randall Manor,8:38,22:33,4,true
+476,Subs,medium,West Brighton,8:05,23:08,1,true
+477,Russian,cheap,Woodside,8:34,23:35,2,false
+478,Pakistani,medium,Richmond Town,8:11,22:06,2,false
+479,Uzbek,expensive,New Dorp,8:11,22:51,1,false
+480,Spanish,expensive,Spring Creek,8:52,22:47,3,true
+481,Argentinian,medium,Emerson Hill,8:47,22:34,1,true
+482,Caribbean,expensive,Chelsea,8:57,22:35,5,true
+483,Moroccan,medium,New Lots,8:09,23:07,2,false
+484,Arabian,medium,City Island,8:59,23:04,1,false
+485,Szechwan,cheap,Arverne,8:09,23:18,3,false
+486,Argentinian,expensive,Clifton,8:44,23:04,3,true
+487,Vegetarian,cheap,Midland Beach,8:22,23:09,1,false
+488,Sri Lankan,medium,Hillcrest,8:59,23:12,4,true
+489,Pasta,expensive,East Harlem,8:38,23:44,3,false
+490,Pizza,expensive,North Riverdale,8:55,22:26,2,false
+491,Cantonese,medium,West Brighton,8:30,23:38,5,false
+492,Austrian,cheap,Whitestone,8:48,22:30,1,true
+493,Puerto Rican,expensive,Williamsburg,8:09,23:25,4,true
+494,Salad,medium,Carnegie Hill,8:13,22:40,3,false
+495,Sushi,cheap,Tribeca,8:56,23:08,2,true
+496,Pizza,expensive,Edgewater Park,8:03,22:35,4,false
+497,Russian,cheap,Brownsville,8:18,23:22,5,true
+498,Subs,medium,New Dorp,8:42,22:35,2,false
+499,Sri Lankan,cheap,Cambria Heights,8:56,22:05,5,false
+500,Turkish,medium,West Brighton,8:24,22:00,5,false
+501,Nepalese,medium,Bayside,8:02,22:57,3,true
+502,Spanish,expensive,Windsor Terrace,8:28,22:28,2,true
+503,Subs,medium,SoHo,8:03,23:25,4,false
+504,Australian,expensive,Beechhurst,8:23,22:04,4,true
+505,Salad,expensive,Great Kills,8:26,22:56,4,true
+506,Pasta,expensive,Auburndale,8:13,22:54,2,true
+507,Arabian,cheap,Cobble Hill,8:50,23:53,3,false
+508,Nepalese,expensive,North Riverdale,8:50,23:16,2,false
+509,Pasta,cheap,Edenwald,8:19,22:20,2,true
+510,Persian,medium,Beekman Place,8:09,23:06,4,true
+511,Pasta,medium,Navy Yard,8:50,22:03,1,false
+512,Sri Lankan,cheap,Brooklyn Heights,8:46,23:23,5,false
+513,Portuguese,cheap,Times Square,8:24,22:34,4,true
+514,Australian,cheap,Little Neck,8:48,23:01,4,false
+515,Turkish,cheap,Mill Island,8:47,22:06,1,false
+516,Vietnamese,cheap,Carroll Gardens,8:19,23:41,5,true
+517,Ribs,expensive,Roxbury,8:44,23:14,4,true
+518,Fusion,medium,Clinton Hill,8:12,22:35,2,true
+519,Cantonese,cheap,Broad Channel,8:38,22:04,3,false
+520,Subs,cheap,High Bridge,8:59,22:52,2,false
+521,Vietnamese,expensive,Manhattanville,8:41,23:14,4,false
+522,Russian,cheap,Beekman Place,8:09,23:42,2,true
+523,Vietnamese,expensive,East New York,8:57,23:01,5,true
+524,Pancakes,expensive,Stapleton,8:27,23:25,5,true
+525,Uzbek,medium,Marble Hill,8:36,22:20,1,false
+526,Pizza,expensive,St. Albans,8:47,23:25,4,true
+527,Vegetarian,cheap,Morris Heights,8:49,23:49,1,false
+528,Mongolian,medium,Ocean Hill,8:14,22:42,3,true
+529,Sushi,medium,Silver Lake,8:00,23:06,3,true
+530,Austrian,expensive,Williamsbridge,8:34,23:28,4,false
+531,Steakhouses,medium,Manhattan Valley,8:10,22:43,4,false
+532,Senegalese,medium,Beekman Place,8:54,22:49,4,true
+533,Arabian,cheap,Borough Park,8:08,23:55,4,false
+534,Uzbek,medium,Arlington,8:46,22:00,4,true
+535,Uzbek,expensive,Grasmere,8:26,22:13,1,true
+536,Ribs,medium,Remsen Village,8:52,22:48,2,true
+537,Argentinian,expensive,Graniteville,8:22,23:03,2,false
+538,Pancakes,expensive,Ridgewood,8:50,22:49,4,false
+539,Sushi,cheap,Tottenville,8:42,23:08,4,false
+540,Polish,cheap,Fieldston,8:02,23:58,2,false
+541,Caribbean,expensive,Mapleton,8:53,23:14,3,false
+542,Puerto Rican,cheap,Emerson Hill,8:29,23:46,2,true
+543,Uzbek,medium,Silver Lake,8:10,23:12,2,true
+544,Pasta,cheap,Oakwood,8:17,23:58,2,true
+545,Szechwan,expensive,Sunnyside,8:57,22:22,2,false
+546,Vietnamese,expensive,Cambria Heights,8:04,22:17,1,false
+547,Salad,medium,Chelsea,8:20,22:35,2,false
+548,Argentinian,expensive,Glendale,8:56,22:00,3,false
+549,Ribs,medium,Williamsburg,8:17,23:29,2,false
+550,Pancakes,expensive,Glen Oaks,8:44,23:44,2,true
+551,Salad,cheap,East New York,8:19,22:25,2,true
+552,Tex-Mex  Thai,cheap,Coney Island,8:45,22:48,1,false
+553,Subs,medium,Vinegar Hill,8:49,23:25,2,true
+554,Sri Lankan,medium,Eastchester,8:00,22:06,3,true
+555,Vegan,cheap,East Harlem,8:30,23:33,4,true
+556,Pakistani,cheap,Bayswater,8:24,22:22,3,true
+557,Ukrainian,expensive,Flushing,8:46,23:39,4,true
+558,Senegalese,cheap,Grymes Hill,8:02,23:21,4,false
+559,Salad,medium,Port Ivory,8:13,22:40,5,false
+560,Vegetarian,expensive,Lower East Side,8:22,22:51,4,true
+561,Moroccan,medium,Old Place,8:04,22:09,2,true
+562,Sri Lankan,expensive,Hudson Square,8:16,22:37,5,true
+563,Vietnamese,medium,Mapleton,8:21,22:01,2,true
+564,Argentinian,cheap,Schuylerville,8:44,22:39,1,true
+565,Moroccan,medium,Park Slope,8:40,22:46,1,false
+566,Steakhouses,medium,Mill Basin,8:09,22:27,4,false
+567,Spanish,expensive,Battery Park City,8:55,23:34,2,false
+568,Russian,cheap,Fort Greene,8:59,22:03,4,false
+569,Pizza,cheap,Concourse Village,8:34,23:11,5,true
+570,Cantonese,medium,Paerdegat Basin,8:41,22:29,5,false
+571,Persian,medium,Castle Hill,8:52,22:14,3,true
+572,Russian,expensive,St. Albans,8:37,22:53,1,true
+573,Russian,cheap,Midtown,8:12,22:37,3,false
+574,Moroccan,cheap,Riverdale,8:13,22:45,4,false
+575,Ukrainian,cheap,Prospect Heights,8:45,22:05,2,false
+576,Steakhouses,expensive,Midwood,8:53,23:01,3,false
+577,Spanish,cheap,Cobble Hill,8:52,22:36,3,true
+578,Ribs,cheap,Chelsea,8:36,23:09,2,true
+579,Pizza,cheap,Highland Park,8:51,22:43,5,true
+580,Argentinian,cheap,South Jamaica,8:30,22:40,2,false
+581,Ukrainian,expensive,Woodhaven,8:24,23:49,5,true
+582,Spanish,cheap,Dutch Kills,8:06,22:53,5,true
+583,Polish,cheap,Williamsburg,8:06,22:12,3,true
+584,Ukrainian,cheap,Beechhurst,8:25,22:04,4,false
+585,Vegetarian,cheap,Blissville,8:37,22:35,5,true
+586,Pizza,medium,St. George,8:00,23:34,2,true
+587,Portuguese,cheap,Roosevelt Island,8:57,22:30,5,true
+588,Southwestern,expensive,Hammels,8:56,22:59,2,false
+589,Pakistani,expensive,Country Club,8:19,22:21,3,false
+590,Spanish,medium,Great Kills,8:28,22:04,2,false
+591,Australian,medium,Glen Oaks,8:54,22:44,4,true
+592,Sri Lankan,expensive,Bedford Park,8:26,23:10,4,true
+593,Pancakes,cheap,Brookville,8:11,23:28,3,false
+594,Tex-Mex  Thai,cheap,Ocean Parkway,8:24,23:16,3,true
+595,Sri Lankan,cheap,Canarsie,8:15,23:45,3,false
+596,Szechwan,medium,Highland Park,8:04,22:44,5,true
+597,Turkish,cheap,Starrett City,8:48,22:34,1,false
+598,Sri Lankan,cheap,Huguenot,8:16,22:25,1,true
+599,Uzbek,expensive,Malba,8:30,22:56,4,false
+600,Vietnamese,medium,Midtown,8:07,22:50,2,false
+601,Spanish,expensive,Bronx River,8:17,22:18,1,true
+602,Persian,medium,Schuylerville,8:59,22:27,5,false
+603,Subs,cheap,Pomonok,8:17,22:48,3,false
+604,Pizza,cheap,NoHo,8:49,22:54,3,true
+605,Sri Lankan,expensive,Far Rockaway,8:18,23:03,5,false
+606,Sushi,expensive,Jamaica Hills,8:55,22:23,4,false
+607,Mongolian,cheap,Broad Channel,8:06,22:08,4,true
+608,Persian,medium,Upper West Side,8:48,22:08,5,false
+609,Szechwan,expensive,Farragut,8:09,22:55,1,true
+610,Pakistani,expensive,Bensonhurst,8:54,23:45,5,false
+611,Spanish,cheap,Farragut,8:59,23:46,5,false
+612,Tex-Mex  Thai,expensive,Tribeca,8:34,23:01,4,false
+613,Steakhouses,expensive,Clinton,8:26,23:12,4,false
+614,Sushi,expensive,Paerdegat Basin,8:44,22:27,2,true
+615,Ukrainian,medium,Carnegie Hill,8:19,22:20,3,true
+616,Sri Lankan,cheap,Gowanus,8:30,23:46,4,true
+617,Pakistani,medium,Roxbury,8:04,23:41,3,false
+618,Moroccan,medium,Farragut,8:08,22:32,2,true
+619,Portuguese,medium,Ridgewood,8:39,22:57,5,true
+620,Pasta,medium,Midtown South,8:50,23:22,1,true
+621,Southwestern,expensive,DUMBO,8:46,23:32,3,false
+622,Austrian,cheap,Belmont,8:32,22:58,4,false
+623,Senegalese,medium,Glen Oaks,8:19,23:28,1,false
+624,Szechwan,cheap,Kensington,8:03,23:46,3,true
+625,Turkish,medium,Mariner's Harbor,8:20,23:03,5,false
+626,Nepalese,medium,Jamaica Hills,8:50,23:39,1,true
+627,Salad,cheap,Woodlawn,8:58,23:48,2,true
+628,Sushi,medium,Battery Park City,8:33,23:08,2,false
+629,Caribbean,cheap,Bellerose,8:22,22:54,2,true
+630,Spanish,medium,Spring Creek,8:32,22:43,5,true
+631,Austrian,cheap,Mount Eden,8:07,23:16,4,true
+632,Tex-Mex  Thai,cheap,Grymes Hill,8:45,23:33,4,false
+633,Mongolian,medium,Belmont,8:33,22:02,3,true
+634,Austrian,medium,Upper East Side,8:37,22:58,2,false
+635,Nepalese,medium,Eastchester,8:57,23:15,4,false
+636,Portuguese,expensive,Bronx River,8:07,22:59,5,false
+637,Caribbean,medium,Seaside,8:31,23:08,3,false
+638,Puerto Rican,cheap,Charleston,8:31,23:00,2,false
+639,Spanish,medium,East New York,8:16,23:18,2,false
+640,Caribbean,cheap,East Williamsburg,8:04,23:26,2,true
+641,Sri Lankan,expensive,Williamsburg,8:42,22:33,4,true
+642,Fusion,expensive,Concourse,8:33,22:25,2,false
+643,Arabian,cheap,Oakwood,8:54,22:50,3,false
+644,Austrian,cheap,East Village,8:50,23:16,3,false
+645,Ukrainian,cheap,Flatbush,8:42,22:05,4,false
+646,Mongolian,expensive,Fordham,8:21,22:54,4,false
+647,Argentinian,cheap,Carnegie Hill,8:13,22:51,5,false
+648,Sri Lankan,expensive,Clinton,8:12,23:54,1,false
+649,Australian,cheap,Woodside,8:56,23:27,5,false
+650,Sri Lankan,expensive,Longwood,8:06,22:51,3,false
+651,Steakhouses,expensive,Middle Village,8:52,22:03,1,true
+652,Sri Lankan,medium,Manhattanville,8:24,23:23,1,false
+653,Ribs,medium,Battery Park City,8:53,23:42,4,false
+654,Sushi,expensive,Melrose,8:00,22:40,5,true
+655,Moroccan,medium,Elmhurst,8:33,23:17,2,false
+656,Ukrainian,medium,Whitestone,8:58,23:54,3,true
+657,Persian,cheap,Beechhurst,8:29,23:08,4,false
+658,Pizza,medium,Kingsbridge,8:34,22:45,4,false
+659,Cantonese,medium,Bathgate,8:30,23:55,1,false
+660,Sushi,cheap,West Brighton,8:13,23:29,1,false
+661,Spanish,cheap,Butler Manor,8:30,23:14,1,true
+662,Turkish,expensive,Clifton,8:22,22:29,5,false
+663,Subs,cheap,Stapleton,8:56,23:28,4,true
+664,Pakistani,expensive,West Brighton,8:46,23:36,1,false
+665,Turkish,medium,Flatlands,8:12,23:28,2,false
+666,Subs,medium,West Farms,8:10,22:23,5,true
+667,Pizza,expensive,Olinville,8:21,22:57,4,false
+668,Southwestern,medium,Vinegar Hill,8:35,22:51,3,true
+669,Vietnamese,cheap,Clinton Hill,8:27,23:45,4,false
+670,Steakhouses,cheap,East New York,8:26,23:44,4,false
+671,Uzbek,expensive,North Side,8:34,22:32,2,false
+672,Southwestern,medium,Mill Island,8:57,23:00,1,false
+673,Subs,expensive,Ocean Parkway,8:51,23:07,5,true
+674,Cantonese,expensive,Huguenot,8:46,23:38,3,false
+675,Pizza,medium,Rego Park,8:24,22:16,4,true
+676,Puerto Rican,cheap,Carnegie Hill,8:29,22:10,5,false
+677,Vegetarian,expensive,Upper East Side,8:48,23:36,4,true
+678,Pasta,cheap,Sunnyside,8:35,22:21,5,true
+679,Russian,expensive,Queensboro Hill,8:36,23:12,2,true
+680,Nepalese,expensive,Murray Hill,8:54,23:16,3,false
+681,Uzbek,medium,Spuyten Duyvil,8:14,23:51,4,true
+682,Portuguese,expensive,Yorkville,8:11,22:19,1,true
+683,Moroccan,cheap,Douglaston,8:32,23:12,3,false
+684,Sushi,expensive,Bushwick,8:56,22:08,2,false
+685,Uzbek,expensive,Tompkinsville,8:41,22:18,5,true
+686,Uzbek,medium,Astoria Heights,8:24,23:42,1,true
+687,Polish,medium,Westchester Square,8:10,22:52,1,true
+688,Turkish,expensive,Kingsbridge,8:26,22:28,4,false
+689,Argentinian,medium,Morningside Heights,8:45,22:01,4,true
+690,Sushi,expensive,Belmont,8:00,22:59,5,true
+691,Pizza,expensive,West Farms,8:23,23:54,4,false
+692,Puerto Rican,medium,Annadale,8:40,22:24,4,true
+693,Puerto Rican,cheap,Fox Hills,8:57,22:30,5,false
+694,Arabian,expensive,Blissville,8:40,23:03,4,true
+695,Puerto Rican,medium,Rosedale,8:18,23:25,4,true
+696,Tex-Mex  Thai,cheap,Mill Basin,8:11,22:48,1,true
+697,Salad,medium,Claremont Village,8:21,22:44,4,false
+698,Arabian,expensive,Elmhurst,8:13,23:33,4,true
+699,Persian,cheap,Roxbury,8:09,22:59,4,false
+700,Pizza,cheap,Bushwick,8:47,23:26,4,false
+701,Pizza,cheap,Chinatown,8:53,23:50,4,false
+702,Sri Lankan,expensive,Greenwich Village,8:36,23:23,3,false
+703,Vegetarian,expensive,Kensington,8:50,23:55,2,false
+704,Turkish,expensive,Longwood,8:22,23:27,3,false
+705,Subs,medium,Clinton,8:58,23:57,3,false
+706,Cantonese,medium,Hamilton Heights,8:27,22:29,3,true
+707,Caribbean,medium,Mariner's Harbor,8:27,23:44,2,true
+708,Cantonese,expensive,Fulton Ferry,8:39,22:20,1,false
+709,Vegan,medium,Todt Hill,8:06,23:51,4,true
+710,Nepalese,expensive,Jamaica Estates,8:00,23:51,5,true
+711,Uzbek,medium,Inwood,8:06,22:54,2,false
+712,Portuguese,medium,Westchester Square,8:43,22:24,2,true
+713,Russian,expensive,New Springville,8:57,22:08,3,false
+714,Pizza,expensive,South Village,8:23,23:15,2,false
+715,Cantonese,cheap,Farragut,8:05,23:22,1,false
+716,Sushi,expensive,Sunnyside,8:19,22:19,2,false
+717,Puerto Rican,expensive,Manhattan Valley,8:44,22:15,5,false
+718,Australian,medium,Astoria Heights,8:26,23:56,3,true
+719,Szechwan,medium,Baychester,8:15,23:04,3,true
+720,Nepalese,cheap,Queens Village,8:14,22:43,2,false
+721,Vietnamese,medium,Graniteville,8:57,23:05,3,false
+722,Nepalese,expensive,Livingston,8:46,23:41,2,true
+723,Cantonese,expensive,Hudson Square,8:17,22:32,1,false
+724,Cantonese,medium,Midwood,8:43,22:08,1,true
+725,Austrian,cheap,South Beach,8:26,22:31,5,true
+726,Fusion,expensive,Gowanus,8:52,23:50,3,true
+727,Turkish,medium,Howard Beach,8:06,22:04,2,false
+728,Caribbean,medium,Remsen Village,8:09,23:12,3,true
+729,Uzbek,medium,Woodside,8:51,23:18,2,true
+730,Szechwan,cheap,Tompkins Park North,8:37,22:51,5,true
+731,Subs,medium,Sheepshead Bay,8:55,23:14,1,true
+732,Cantonese,expensive,Gravesend,8:57,22:18,5,true
+733,Tex-Mex  Thai,medium,Sea Gate,8:46,22:46,2,false
+734,Subs,medium,Country Club,8:31,22:56,2,true
+735,Puerto Rican,expensive,Egbertville,8:11,22:34,4,false
+736,Subs,expensive,North Side,8:17,23:23,1,true
+737,Tex-Mex  Thai,expensive,Mariner's Harbor,8:15,22:16,1,false
+738,Russian,expensive,Edgemere,8:45,22:21,5,false
+739,Subs,medium,West Farms,8:34,23:56,1,false
+740,Spanish,medium,Forest Hills,8:28,23:54,2,false
+741,Puerto Rican,cheap,Kensington,8:43,22:51,4,false
+742,Pizza,expensive,Somerville,8:47,22:20,3,false
+743,Fusion,cheap,Greenridge,8:23,22:05,2,true
+744,Vegetarian,expensive,Tribeca,8:42,23:55,4,false
+745,Pakistani,medium,Farragut,8:07,22:00,1,true
+746,Vegan,cheap,Williamsbridge,8:19,23:16,2,false
+747,Spanish,cheap,Chelsea,8:15,22:05,3,true
+748,Pizza,medium,City Island,8:10,23:02,2,false
+749,Austrian,expensive,Rockaway Park,8:41,22:14,1,false
+750,Pakistani,expensive,Van Nest,8:53,23:35,2,true
+751,Uzbek,expensive,Sunnyside,8:26,22:41,1,false
+752,Pakistani,cheap,Van Nest,8:16,22:01,1,true
+753,Uzbek,medium,Bulls Head,8:46,23:21,1,true
+754,Puerto Rican,cheap,Allerton,8:34,22:36,1,false
+755,Pakistani,expensive,City Island,8:25,23:25,3,false
+756,Arabian,medium,Flatlands,8:12,23:50,5,false
+757,Spanish,medium,Laurelton,8:06,22:43,4,true
+758,Vegan,cheap,Wakefield,8:24,23:43,5,true
+759,Portuguese,expensive,Park Slope,8:09,22:07,3,true
+760,Moroccan,medium,Pelham Gardens,8:03,22:48,4,true
+761,Uzbek,expensive,Midtown South,8:06,23:43,4,true
+762,Australian,medium,Little Italy,8:05,23:26,5,true
+763,Argentinian,expensive,Mill Island,8:32,23:36,1,false
+764,Ukrainian,expensive,Co-op City,8:07,23:02,2,true
+765,Russian,expensive,Farragut,8:19,23:21,4,false
+766,Portuguese,expensive,Bensonhurst,8:00,22:31,4,true
+767,Moroccan,cheap,Wingate,8:43,22:52,1,false
+768,Puerto Rican,medium,Bay Terrace,8:28,23:38,1,false
+769,Pakistani,expensive,New Brighton,8:30,23:14,3,false
+770,Ukrainian,cheap,Yorkville,8:40,22:37,4,true
+771,Steakhouses,expensive,Eltingville,8:49,23:57,2,false
+772,Vegetarian,expensive,Kingsbridge,8:17,23:11,3,true
+773,Puerto Rican,medium,East Tremont,8:52,23:29,4,true
+774,Vegan,medium,Sandy Ground,8:00,23:05,5,true
+775,Australian,cheap,Morris Heights,8:44,23:08,4,false
+776,Caribbean,medium,Woodside,8:27,22:21,5,true
+777,Australian,medium,Livingston,8:53,22:21,2,false
+778,Portuguese,cheap,South Beach,8:38,23:40,2,false
+779,Mongolian,medium,Clinton Hill,8:18,22:18,3,false
+780,Puerto Rican,expensive,Astoria,8:26,23:01,5,true
+781,Tex-Mex  Thai,medium,Eltingville,8:27,22:16,2,false
+782,Cantonese,expensive,Greenpoint,8:47,22:54,1,true
+783,Pizza,medium,Beechhurst,8:45,23:29,3,false
+784,Pancakes,expensive,Sunnyside,8:44,23:31,1,true
+785,Mongolian,medium,NoHo,8:56,23:20,1,false
+786,Pasta,cheap,Edgewater Park,8:18,23:43,2,false
+787,Pakistani,cheap,Old Place,8:08,22:16,2,true
+788,Moroccan,medium,Tudor City,8:21,23:08,2,true
+789,Senegalese,cheap,Cobble Hill,8:11,23:40,3,false
+790,Steakhouses,cheap,St. George,8:48,22:00,2,false
+791,Polish,cheap,Whitestone,8:15,22:55,5,false
+792,Tex-Mex  Thai,cheap,Battery Park City,8:33,23:33,3,true
+793,Puerto Rican,medium,Financial District,8:09,22:31,4,true
+794,Austrian,cheap,Williamsbridge,8:28,23:24,5,true
+795,Uzbek,medium,Forest Hills,8:32,23:46,4,false
+796,Pizza,cheap,Seaside,8:12,22:37,1,true
+797,Southwestern,expensive,Crown Heights,8:50,23:37,5,false
+798,Pasta,cheap,East Williamsburg,8:59,22:46,5,false
+799,Pasta,expensive,Howland Hook,8:45,22:35,5,true
+800,Moroccan,medium,Sunset Park,8:27,23:04,4,false
+801,Subs,expensive,Washington Heights,8:08,23:19,1,false
+802,Russian,cheap,Union Square,8:31,23:19,5,true
+803,Southwestern,expensive,East Williamsburg,8:35,23:44,2,false
+804,Ribs,expensive,Prospect Park South,8:04,23:20,1,false
+805,Pancakes,cheap,Remsen Village,8:31,23:41,4,true
+806,Uzbek,expensive,Oakwood,8:47,23:20,2,true
+807,Cantonese,expensive,Concourse,8:01,22:32,3,false
+808,Steakhouses,medium,Clinton,8:41,22:05,2,true
+809,Argentinian,expensive,Arverne,8:45,22:07,3,false
+810,Russian,medium,Tottenville,8:39,23:14,5,true
+811,Vegetarian,expensive,Rockaway Park,8:16,22:54,1,true
+812,Argentinian,cheap,Kings Highway,8:14,22:32,2,true
+813,Austrian,cheap,New Lots,8:07,23:57,1,true
+814,Turkish,expensive,Chelsea,8:01,22:04,3,false
+815,Russian,cheap,High Bridge,8:11,23:23,5,false
+816,Ribs,medium,Park Hill,8:42,22:42,5,false
+817,Pakistani,medium,Travis,8:08,22:08,4,true
+818,Tex-Mex  Thai,expensive,Boerum Hill,8:19,23:57,4,true
+819,Senegalese,medium,Union Square,8:16,22:25,5,false
+820,Pasta,medium,Homecrest,8:30,23:18,4,true
+821,Tex-Mex  Thai,cheap,New Dorp Beach,8:27,23:32,1,false
+822,Arabian,expensive,Pelham Gardens,8:50,22:53,2,true
+823,Argentinian,cheap,Sheepshead Bay,8:20,22:04,1,true
+824,Turkish,cheap,Manhattan Valley,8:54,23:24,1,false
+825,Turkish,expensive,Brighton Beach,8:29,22:59,5,true
+826,Pasta,cheap,Breezy Point,8:18,23:10,5,false
+827,Salad,cheap,Gerritsen Beach,8:48,22:31,3,true
+828,Sri Lankan,medium,Hammels,8:45,23:12,3,false
+829,Southwestern,expensive,Washington Heights,8:38,23:34,5,true
+830,Arabian,expensive,Brookville,8:26,22:45,2,true
+831,Russian,cheap,Old Place,8:58,22:45,2,false
+832,Arabian,expensive,Parkchester,8:21,22:55,4,true
+833,Southwestern,expensive,Somerville,8:18,23:27,2,false
+834,Ribs,cheap,Flushing (Downtown),8:05,23:38,5,false
+835,Puerto Rican,cheap,Todt Hill,8:04,22:08,5,false
+836,Austrian,medium,Murray Hill,8:50,23:00,1,false
+837,Australian,expensive,Fort Greene,8:34,23:23,3,false
+838,Vietnamese,medium,Beekman Place,8:48,22:51,4,true
+839,Sri Lankan,expensive,Spring Creek,8:49,23:24,5,false
+840,Pizza,expensive,Highland Park,8:02,22:33,1,false
+841,Pancakes,medium,Prince's Bay,8:33,23:16,5,true
+842,Szechwan,medium,New Lots,8:50,22:27,2,false
+843,Russian,expensive,Tudor City,8:22,23:13,1,true
+844,Southwestern,expensive,Lenox Hill,8:06,22:47,5,false
+845,Sushi,medium,East Elmhurst,8:51,22:21,5,true
+846,Spanish,expensive,Pelham Parkway,8:38,22:15,5,false
+847,Mongolian,cheap,North Corona,8:09,23:39,4,false
+848,Sushi,medium,Bronx Park South,8:20,23:19,5,true
+849,Steakhouses,medium,St. Albans,8:28,22:54,4,true
+850,Portuguese,medium,Bay Terrace,8:09,22:03,3,true
+851,Pancakes,medium,Pelham Bay,8:23,22:21,2,false
+852,Arabian,expensive,Crown Heights,8:03,23:19,3,false
+853,Argentinian,cheap,Rochdale,8:26,23:25,3,false
+854,Tex-Mex  Thai,cheap,Bensonhurst,8:13,22:56,3,true
+855,Senegalese,medium,New Dorp Beach,8:44,23:00,2,false
+856,Nepalese,medium,New Lots,8:26,22:57,4,false
+857,Szechwan,medium,Pelham Bay,8:42,22:51,3,false
+858,Australian,medium,Fulton Ferry,8:36,23:07,5,true
+859,Vegan,medium,Woodrow,8:36,22:39,4,true
+860,Ribs,medium,Fresh Meadows,8:03,22:16,3,true
+861,Vietnamese,medium,Little Italy,8:15,22:15,1,true
+862,Subs,expensive,Hollis,8:41,22:05,5,true
+863,Puerto Rican,cheap,Edgewater Park,8:50,23:51,2,false
+864,Ribs,expensive,West Brighton,8:55,22:44,5,false
+865,Pakistani,cheap,Sunnyside,8:29,23:41,5,true
+866,Vegan,expensive,Rosebank,8:30,23:37,4,true
+867,Fusion,expensive,Bay Terrace,8:42,22:15,2,false
+868,Caribbean,cheap,Ocean Parkway,8:26,22:02,3,true
+869,Szechwan,expensive,Hollis,8:15,23:28,2,false
+870,Pakistani,medium,Fort Hamilton,8:02,23:18,1,false
+871,Persian,expensive,Far Rockaway,8:41,22:47,1,true
+872,Fusion,medium,Manhattan Beach,8:10,23:25,2,false
+873,Ukrainian,cheap,Herald Square,8:44,22:07,1,false
+874,Ribs,medium,Jamaica,8:06,23:13,5,true
+875,Spanish,medium,Upper East Side,8:29,23:01,5,false
+876,Uzbek,medium,Bayside,8:28,22:43,2,false
+877,Polish,medium,Dyker Heights,8:33,22:48,2,true
+878,Spanish,medium,Baychester,8:09,22:51,1,false
+879,Salad,medium,Midland Beach,8:20,23:18,5,true
+880,Sri Lankan,cheap,Wingate,8:21,23:24,2,false
+881,Vegan,expensive,Navy Yard,8:28,22:23,4,true
+882,Austrian,medium,Graniteville,8:42,23:35,4,false
+883,Polish,expensive,Morris Park,8:09,23:07,4,true
+884,Sushi,medium,Broad Channel,8:44,22:54,3,true
+885,Sushi,cheap,Midtown,8:11,23:09,5,true
+886,Persian,expensive,Heartland Village,8:48,22:57,1,false
+887,Sri Lankan,cheap,Prince's Bay,8:01,22:46,4,true
+888,Fusion,cheap,Cobble Hill,8:59,22:13,4,true
+889,Caribbean,expensive,Norwood,8:16,22:35,5,false
+890,Arabian,expensive,New Dorp,8:26,23:39,3,true
+891,Pancakes,medium,Tompkinsville,8:24,22:36,2,true
+892,Persian,cheap,Starrett City,8:17,23:42,3,false
+893,Salad,cheap,Gowanus,8:46,22:23,3,true
+894,Tex-Mex  Thai,expensive,Schuylerville,8:33,22:34,1,false
+895,Fusion,cheap,Tompkinsville,8:22,23:50,5,false
+896,Persian,cheap,Jamaica,8:47,22:54,1,true
+897,Vegetarian,expensive,Rego Park,8:24,23:38,5,false
+898,Cantonese,medium,Pelham Bay,8:42,22:27,3,true
+899,Puerto Rican,cheap,Flushing (Downtown),8:20,22:34,1,true
+900,Pizza,expensive,Cobble Hill,8:55,22:27,3,false
+901,Fusion,expensive,Old Town,8:46,22:12,4,false
+902,Cantonese,medium,Broadway Junction,8:08,22:42,2,true
+903,Fusion,medium,Holliswood,8:21,22:06,2,false
+904,Mongolian,expensive,Murray Hill,8:22,22:16,3,false
+905,Mongolian,cheap,Lower East Side,8:17,22:28,4,true
+906,Caribbean,cheap,Manhattan Valley,8:18,23:08,2,true
+907,Caribbean,cheap,Mount Eden,8:29,23:47,3,true
+908,Turkish,cheap,South Corona,8:37,23:36,3,false
+909,Vietnamese,medium,Howard Beach,8:01,22:59,3,true
+910,Turkish,expensive,Ridgewood,8:21,22:37,3,false
+911,Polish,medium,Downtown,8:37,22:32,1,false
+912,Portuguese,cheap,Breezy Point,8:53,22:57,3,true
+913,Pizza,expensive,Midtown South,8:34,22:39,2,true
+914,Pizza,medium,Longwood,8:49,22:06,1,true
+915,Moroccan,expensive,Howland Hook,8:22,22:52,5,false
+916,Arabian,medium,Harlem (Central),8:21,23:11,2,false
+917,Arabian,expensive,Norwood,8:40,22:18,3,true
+918,Turkish,expensive,West Farms,8:19,23:55,2,true
+919,Austrian,cheap,Emerson Hill,8:07,23:16,3,false
+920,Vegetarian,medium,South Side,8:16,23:58,1,false
+921,Austrian,expensive,East New York,8:42,23:21,1,true
+922,Caribbean,cheap,Stuyvesant Heights,8:16,22:57,2,true
+923,Persian,cheap,Brownsville,8:42,23:44,4,true
+924,Szechwan,cheap,Beechhurst,8:58,22:12,4,false
+925,Tex-Mex  Thai,expensive,West Farms,8:45,22:54,5,false
+926,Cantonese,expensive,Chelsea,8:17,22:21,4,true
+927,Nepalese,cheap,Midland Beach,8:47,23:48,3,true
+928,Vietnamese,cheap,Livingston,8:37,22:41,1,false
+929,Spanish,cheap,Manhattan Valley,8:49,22:35,4,true
+930,Sri Lankan,expensive,Brookville,8:32,22:22,1,true
+931,Pakistani,medium,Baychester,8:49,23:26,5,true
+932,Salad,medium,Prospect Heights,8:52,23:01,5,true
+933,Turkish,cheap,Heartland Village,8:52,22:02,4,true
+934,Caribbean,expensive,Forest Hills Gardens,8:45,22:17,2,true
+935,Vegan,medium,Prospect Park South,8:39,23:01,4,false
+936,Pakistani,expensive,Sunset Park,8:07,22:52,4,true
+937,Puerto Rican,cheap,Morrisania,8:07,22:41,4,true
+938,Vegetarian,medium,Eltingville,8:26,23:53,3,false
+939,Uzbek,expensive,Weeksville,8:14,23:31,5,false
+940,Polish,medium,Sunnyside,8:25,23:47,1,true
+941,Subs,cheap,Steinway,8:14,22:49,3,true
+942,Turkish,cheap,Broadway Junction,8:47,22:41,2,true
+943,Turkish,cheap,Chinatown,8:42,22:21,3,false
+944,Szechwan,expensive,Civic Center,8:22,23:09,4,true
+945,Szechwan,expensive,Kings Highway,8:15,22:25,3,true
+946,Argentinian,medium,Ridgewood,8:56,22:59,4,true
+947,Vietnamese,cheap,Chinatown,8:12,22:33,2,true
+948,Mongolian,cheap,Riverdale,8:09,23:54,2,true
+949,Southwestern,cheap,Spring Creek,8:37,23:14,5,false
+950,Ribs,expensive,East Harlem,8:49,22:09,4,true
+951,Russian,cheap,Great Kills,8:06,22:56,1,true
+952,Salad,cheap,Allerton,8:42,22:02,1,true
+953,Argentinian,cheap,Herald Square,8:02,22:28,3,true
+954,Tex-Mex  Thai,expensive,Co-op City,8:06,22:00,5,false
+955,Persian,medium,Riverdale,8:25,23:38,5,false
+956,Vegan,medium,Old Place,8:50,22:37,3,false
+957,Austrian,medium,Clearview,8:28,22:17,4,true
+958,Russian,expensive,Egbertville,8:52,23:24,5,false
+959,Vietnamese,expensive,Hunters Point,8:18,23:07,2,false
+960,Senegalese,medium,Westerleigh,8:51,22:16,3,false
+961,Uzbek,expensive,New Brighton,8:18,23:13,5,false
+962,Southwestern,cheap,DUMBO,8:50,23:56,1,false
+963,Caribbean,medium,Riverdale,8:58,22:32,2,true
+964,Steakhouses,medium,Chinatown,8:25,22:00,4,false
+965,Steakhouses,cheap,Greenridge,8:59,22:42,1,false
+966,Uzbek,expensive,Park Hill,8:24,23:06,1,false
+967,Southwestern,medium,Graniteville,8:18,22:57,3,true
+968,Ukrainian,medium,Flatlands,8:35,22:52,2,true
+969,Portuguese,medium,Travis,8:13,23:33,2,false
+970,Sri Lankan,expensive,New Dorp Beach,8:00,23:50,4,true
+971,Pizza,medium,Fieldston,8:48,22:06,2,false
+972,Senegalese,expensive,Manhattanville,8:16,23:46,1,true
+973,Senegalese,cheap,North Corona,8:06,23:25,2,true
+974,Ukrainian,cheap,Clifton,8:23,23:02,3,true
+975,Subs,cheap,Stuyvesant Heights,8:32,23:30,1,true
+976,Senegalese,expensive,Bathgate,8:21,22:50,3,false
+977,Tex-Mex  Thai,medium,College Point,8:56,22:00,1,true
+978,Sushi,cheap,Chinatown,8:33,23:08,5,true
+979,Vietnamese,medium,Marble Hill,8:14,22:56,3,false
+980,Ribs,medium,Westerleigh,8:27,22:12,1,true
+981,Salad,expensive,Rosedale,8:44,22:35,5,false
+982,Australian,expensive,Blissville,8:41,22:21,5,true
+983,Persian,cheap,Gramercy,8:58,22:45,2,true
+984,Salad,medium,Boerum Hill,8:44,23:17,1,false
+985,Persian,cheap,Fresh Meadows,8:33,22:01,1,false
+986,Arabian,cheap,Marble Hill,8:26,22:13,3,true
+987,Steakhouses,expensive,Grasmere,8:23,22:20,2,false
+988,Sri Lankan,expensive,Bay Ridge,8:07,23:24,5,true
+989,Nepalese,expensive,Coney Island,8:58,23:16,3,false
+990,Pasta,expensive,Oakland Gardens,8:25,23:15,4,false
+991,Argentinian,medium,Grant City,8:28,23:32,4,false
+992,Cantonese,expensive,Clearview,8:36,23:06,1,true
+993,Austrian,medium,New Dorp,8:47,22:31,5,false
+994,Persian,medium,Clinton Hill,8:40,23:07,3,false
+995,Portuguese,cheap,Flatiron,8:03,23:50,5,true
+996,Tex-Mex  Thai,cheap,Glen Oaks,8:24,23:53,1,true
+997,Steakhouses,cheap,Morris Park,8:49,23:33,1,false
+998,Steakhouses,cheap,Marble Hill,8:33,23:20,5,false
+999,Ribs,medium,Hudson Square,8:47,22:04,4,true
+1000,Polish,cheap,South Corona,8:00,22:23,1,true
